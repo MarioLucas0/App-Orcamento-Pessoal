@@ -1,11 +1,13 @@
-# Udemy_App_Orcamento_Pessoal
+# App Orçamento Pessoal
 
-## Descrição do Projeto
-<p align="center">Um sistema simples de organização de gastos feito apenas com HTML, CSS e JavaScript puro, para o curso "Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos" Criado por Jorge Sant Ana e Jamilton Damasceno na Udemy</p>
+Nesta aplicação é possível cadastrar gastos com data, categoria, descrição e valor. Depois, pode ser feita uma busca dos gastos pelos campos cadastrados. Foi desenvolvida no curso Desenvolvimento Web Completo ministrado por Jamilton Damasceno e Jorge Sant'Ana na Udemy.
 
-<h4 align="center"> 
-	🛠 Desenvolvimento concluído 🛠
-</h4>
+Página de cadastro:
+![Página de cadastro](https://github.com/jeangregolon/assets/blob/main/app-orcamento-pessoal-cadastro.png)
+
+Página de consulta:
+![Página de consulta](https://github.com/jeangregolon/assets/blob/main/app-orcamento-pessoal-consulta.png)
+
 
 ### Features
 
