@@ -1,0 +1,8 @@
+div.input{
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+.btn_exc{
+    padding: .200rem .60rem;
+}
